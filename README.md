@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mnmason86
-- 👀 I’m interested in learning all I can about the Software Development world! I'm new here :)
-- 🌱 I’m currently learning basics of coding with HTML and C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning as much as I can about coding and software development.
+- 🌱 I’m currently about to start my final Code Fellows course in Java.
 - 📫 How to reach me - mnmason86@gmail.com
 
 <!---
